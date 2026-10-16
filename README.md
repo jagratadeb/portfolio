@@ -3,8 +3,11 @@
 > [!NOTE]
 > 📁 **Archived Portfolio**
 >
-> 🚀 A newer version of this portfolio has been developed.
+> 🚀 A newer version of this portfolio is available.
 >
-> 📎 The new portfolio will be made public once a domain has been acquired.
+> 📌 This repository has been archived and preserved as a snapshot of an earlier version for reference and historical purposes.
+
+> [!IMPORTANT]
+> 🌐 **Current Portfolio Repository:**
 >
-> 📌 This repository has been archived and is preserved as a snapshot of an earlier version for reference and historical purposes.
+> [jagratadeb/jagrata-deb-portfolio](https://github.com/jagratadeb/jagrata-deb-portfolio)
